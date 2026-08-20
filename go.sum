@@ -572,8 +572,8 @@ github.com/posener/complete v1.1.1/go.mod h1:em0nMJCgc9GFtwrmVmEMR/ZL6WyhyjMBndr
 github.com/posener/complete v1.2.3/go.mod h1:WZIdtGGp+qx0sLrYKtIRAruyNpv6hFCicSgv7Sy7s/s=
 github.com/prashantv/gostub v1.1.0 h1:BTyx3RfQjRHnUWaGF9oQos79AlQ5k8WNktv7VGvVH4g=
 github.com/prashantv/gostub v1.1.0/go.mod h1:A5zLQHz7ieHGG7is6LLXLz7I8+3LZzsrV0P1IAHhP5U=
-github.com/prometheus-community/prom-label-proxy v0.14.0 h1:5P99yZ0stwrwqpu73xDYg7d4HjJ7iNDSdDYeVrNy66w=
-github.com/prometheus-community/prom-label-proxy v0.14.0/go.mod h1:SrmZpQsimziUAqvmAdaHUT+gLFH/FBKz6mkee8Wfhzk=
+github.com/prometheus-community/prom-label-proxy v0.15.0 h1:Bv844Ry/FM9bCZrbsbWiwowtZp3B4ApBl+ptF/qUmIc=
+github.com/prometheus-community/prom-label-proxy v0.15.0/go.mod h1:e2hJkx3xjVqcc/8b2SVOLLgXN3Rv16OznmNDCXw2T88=
 github.com/prometheus/alertmanager v0.34.0 h1:z75n0NoypggESmt3HD4JlTXOaOZj1EBz1ACHO4Z6EUk=
 github.com/prometheus/alertmanager v0.34.0/go.mod h1:/qF39A6Vb1MMoDM1SxcySobb7wmpBZha8COwULiKUUo=
 github.com/prometheus/client_golang v0.9.1/go.mod h1:7SWBe2y4D6OKWSNQJUaRYU/AaXPKyh/dDVn+NZz0KFw=
