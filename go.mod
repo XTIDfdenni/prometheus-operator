@@ -30,7 +30,7 @@ require (
 	github.com/thanos-io/thanos v0.42.4
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/net v0.59.0
-	golang.org/x/sync v0.23.0
+	golang.org/x/sync v0.24.0
 	google.golang.org/protobuf v1.36.12
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.37.1
